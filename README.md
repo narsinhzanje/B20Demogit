@@ -1,2 +1,2 @@
 # B20Demogit
-demo
+This repository is  created only for demo purpose.
